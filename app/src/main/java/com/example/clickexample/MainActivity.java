@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private boolean isTest = false;
+    private boolean isTest = false; //깃에서 수정
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
