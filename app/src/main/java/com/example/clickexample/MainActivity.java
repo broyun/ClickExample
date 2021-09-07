@@ -25,7 +25,8 @@ public class MainActivity extends AppCompatActivity {
         final TextView resultTxt = findViewById(R.id.resultTxt);
 
         String week = "asdas";
-        //TODO : git Test하기
+        //todo : 이거 아닌가?
+        //TODO : git Test하
 
 
         //찾아온 버튼에 클릭이벤트 달기
